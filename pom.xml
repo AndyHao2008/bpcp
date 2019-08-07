@@ -7,6 +7,7 @@
     <groupId>com.egp</groupId>
     <artifactId>bpcp</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <description>bpcp</description>
 
 
 </project>
